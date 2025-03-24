@@ -1,5 +1,7 @@
 # Intrusion-Detection-System-Using-Machine-Learning
-Machine Learning-based Intrusion Detection System using CIC-IDS 2017 dataset with feature selection, model optimization, and attack classification.
+# Machine Learning-based Intrusion Detection System using CIC-IDS 2017 dataset with feature selection, model optimization, and attack classification.
+
+
 Modern cyber threats are becoming more complex, making it harder for traditional Intrusion Detection Systems (IDS) to detect them effectively. Traditional IDS systems are increasingly inadequate, particularly in identifying sophisticated and evolving attacks. This creates a need for efficient systems that can not only classify attacks accurately but also minimize false positives, which are a significant issue in real-world applications.
 
 To address these challenges, this project develops a machine learning-based IDS that can effectively classify and detect network intrusions with low false positives. The CIC-IDS2017 dataset was selected because it simulates realistic network traffic and has various types of attacks, such as DoS, DDoS, Brute Force, SQL Injection, and Botnet attacks.
